@@ -1,4 +1,4 @@
-# scapy_protocol_headers
+# Scapy to learn Protocol Headers
 
 Scapy is a tool to capture, view, forge, manipulate and build packets. It can also be used to scan and sniff networks. However, this isn't a Scapy tutorial. 
 
